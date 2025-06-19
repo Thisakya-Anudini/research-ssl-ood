@@ -1,4 +1,4 @@
-# Self-Supervised Learning for Out-of-Distribution Detection
+# Self-Supervised Learning for Out-of-Distribution Detection.
 
 This repository contains implementations for:
 1. Handling class imbalance in imbalanced CIFAR-10 using GANs
